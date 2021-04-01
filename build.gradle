@@ -28,8 +28,8 @@ test {
     useJUnitPlatform()
 }
 bootJar{
-    enabled:false
+    enabled=false
 }
 jar{
-enabled:true
+enabled=true
 }
