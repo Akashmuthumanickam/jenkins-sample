@@ -1,2 +1,2 @@
 # jenkins-sample
-For assesment - ThemenPark
+For assesment - Theme Park
