@@ -1,2 +1,1 @@
-# jenkins-sample
-For assesment - Theme Park
+# Jenkins_Practice
